@@ -10,7 +10,8 @@
 ![image](https://github.com/A719689614/A719689614/assets/142242136/ce6fd6d2-3047-44c7-8536-cc141a2fd02d)
 ![image](https://github.com/A719689614/A719689614/assets/142242136/5a126b92-d303-4e21-834e-ceceb04b1340)
 ![image](https://github.com/A719689614/A719689614/assets/142242136/0803baad-b57e-4e68-8aff-693af36cadca)
-![Uploading image.png…]()
+![image](https://github.com/A719689614/A719689614/assets/142242136/92c7ad89-54f8-4bcf-8969-60b451ee644f)
+
 
 
 室内业务
@@ -21,3 +22,5 @@
 ![image](https://github.com/A719689614/A719689614/assets/142242136/d620bc64-a82d-4ca9-b394-735ec8641981)
 ![image](https://github.com/A719689614/A719689614/assets/142242136/512bab9c-f164-454a-bd32-f8a905d359ab)
 ![image](https://github.com/A719689614/A719689614/assets/142242136/db75cbab-e18e-4d14-9be6-ccc226b2e17a)
+
+建筑业务
